@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
     "result": {"data":{"site":{"siteMetadata":{"title":"roytang.me"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Far far away, behind the word mountains, far from the countries Vokalia and\nConsonantia, there live the blind texts. Separated they live in…","fields":{"slug":"/first-blog/"},"frontmatter":{"date":"October 05, 2020","title":"First Blog","description":"first blog"}}]}},"pageContext":{}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
+    "staticQueryHashes": ["2607342495","2765828424","2841359383"]}
